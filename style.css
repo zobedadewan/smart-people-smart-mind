@@ -1,0 +1,41 @@
+html { 
+    font-family: 'PT Serif', serif;
+     width: 100%;
+    height: 100%;
+
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  body{
+    background: url(homeimg.jpg) no-repeat center center; 
+    background-size:cover;
+  }
+
+h1{
+    font-size: 1.5rem;
+    justify-content: center;
+    height: 100%;
+    font-family: 'Bad Script', cursive;
+    color: rgb(54, 46, 46);
+    padding: 350px 100px 50px 90px;
+
+    
+}
+ .btn-primary{
+     border-radius: 10px;  
+     font-weight: bold;
+     font-size: 1rem;
+     text-transform: uppercase;
+     font-family: 'Bad Script', cursive;
+ }
+
+ .btn-primary:hover{
+     background-color: brown;
+     
+ }
+
+ .buffer{
+     height: 5rem;
+ }
+
